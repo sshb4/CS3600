@@ -1,1 +1,0 @@
-Using the Unit1Examples.zip Download Unit1Examples.zipas a guide, write a WebGL program that has many bouncing circles, with random initial positions, velocities, colors, and sizes.
